@@ -3,7 +3,7 @@
     @lang('Create Task')
 @endsection
 @section('content')
-    <div class="row">
+    <div class="row container">
         <div class="col-xl-12">
             <div class="card">
                 <div class="card-body">
